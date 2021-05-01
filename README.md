@@ -19,3 +19,7 @@ http://api.openweathermap.org/data/2.5/weather?lat={lat}&lon={lon}&APPID={api_ke
 # Install Axios
 
 `npm install axios`
+
+# Install Prop Types
+
+`npm install prop-types`
