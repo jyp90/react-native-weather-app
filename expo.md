@@ -13,3 +13,9 @@
 
 Web browser: localhost:19002
 
+# API Documents
+
+https://docs.expo.io/versions/latest/
+
+## Install Location
+`expo install expo-location`
