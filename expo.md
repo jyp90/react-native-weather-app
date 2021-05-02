@@ -22,3 +22,7 @@ https://docs.expo.io/versions/latest/
 
 ## Icons and Styling
 https://docs.expo.io/guides/icons/
+
+## Install Linear Gradient
+
+`expo install expo-linear-gradient`  
