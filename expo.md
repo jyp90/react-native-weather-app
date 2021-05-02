@@ -19,3 +19,6 @@ https://docs.expo.io/versions/latest/
 
 ## Install Location
 `expo install expo-location`
+
+## Icons and Styling
+https://docs.expo.io/guides/icons/
